@@ -6,14 +6,13 @@ model = pickle.load(open("model.pkl", "rb"))
 vectorizer = pickle.load(open("vectorizer.pkl", "rb"))
 
 
-# 🔥 CLEAN TEXT
 def clean_text(text):
     text = text.lower()
-    text = re.sub(r"[^a-zA-Z0-9 ]", "", text)
+    text = re.sub(r"[^a-z0-9\s]", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
     return text
 
 
-# 🔥 HINGLISH NORMALIZATION
 def normalize_text(text):
     text = text.lower()
 
@@ -41,8 +40,6 @@ def normalize_text(text):
 
     return text
 
-
-# 🔥 FINAL PREDICT FUNCTION
 def predict_intent(text):
     text = normalize_text(text)   # 👈 NEW
     text = clean_text(text)

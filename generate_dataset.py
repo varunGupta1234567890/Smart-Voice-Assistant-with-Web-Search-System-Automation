@@ -41,7 +41,7 @@ intents = {
     ]
 }
 
-apps = ["youtube", "google", "instagram", "facebook", "whatsapp", "netflix", "spotify"]
+apps = ["youtube", "google", "instagram", "facebook", "whatsapp", "netflix", "spotify","twitter"]
 songs = ["kesariya","Raanjhan","shape of you", "believer", "despacito"]
 topics = ["AI", "Narendra Modi", "Elon Musk", "cricket", "India", "space", "black hole"]
 
