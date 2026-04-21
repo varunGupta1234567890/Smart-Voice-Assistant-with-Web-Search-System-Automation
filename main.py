@@ -5,8 +5,6 @@ from tts import speak
 import datetime
 import random
 
-
-# 🔥 startup greetings
 def greet_user():
     hour = datetime.datetime.now().hour
 
@@ -18,7 +16,6 @@ def greet_user():
         speak("Good evening! I'm listening.")
 
 
-# 🔥 random filler replies (human feel)
 FILLERS = [
     "Okay",
     "Sure",
@@ -33,7 +30,7 @@ greet_user()
 
 while True:
 
-    # 🎤 Voice input
+    # Voice input
     command = take_command()
 
     if not command:
@@ -42,24 +39,19 @@ while True:
     command = command.lower().strip()
     print("You said:", command)
 
-
-    # exit command (VERY IMPORTANT)
     if "exit" in command or "stop" in command or "bye" in command:
         speak("Goodbye! Have a nice day.")
         break
 
-    # 🔥 small human response
+    # small human response
     filler = random.choice(FILLERS)
     print("Assistant:", filler)
     speak(filler)
 
-    # 🧠 Intent prediction
     intent = predict_intent(command)
     print("Intent:", intent)
 
-    # ⚙️ Action perform
     response = perform_action(intent, command)
     print("Assistant:", response)
 
-    # 🔊 Speak output
     speak(response)

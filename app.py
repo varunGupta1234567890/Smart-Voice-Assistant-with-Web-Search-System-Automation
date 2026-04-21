@@ -5,9 +5,6 @@ from actions import perform_action
 import pyttsx3
 import threading
 
-# ==============================
-# 🔊 SPEECH SETUP
-# ==============================
 engine = pyttsx3.init()
 engine.setProperty('rate', 170)
 
@@ -18,19 +15,15 @@ def speak(text):
 def speak_async(text):
     threading.Thread(target=speak, args=(text,)).start()
 
-
-# 🔹 Page Config
 st.set_page_config(
     page_title="AI Voice Assistant",
     page_icon="🤖",
     layout="centered"
 )
 
-# 🔹 Session State
 if "history" not in st.session_state:
     st.session_state.history = []
 
-# 🔹 CSS
 st.markdown("""
 <style>
 .title {
@@ -67,10 +60,8 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# 🔹 Header
 st.markdown('<div class="title">🤖 AI Voice Assistant</div>', unsafe_allow_html=True)
 
-# 🔹 Chat Display
 st.markdown('<div class="chat-container">', unsafe_allow_html=True)
 
 for chat in st.session_state.history:
@@ -79,7 +70,7 @@ for chat in st.session_state.history:
 
     if role == "user":
         st.markdown(
-            f'<div class="chat-row"><div class="chat-user">🧑 {text}</div></div>',
+            f'<div class="chat-row"><div class="chat-user"> {text}</div></div>',
             unsafe_allow_html=True
         )
     else:
@@ -90,19 +81,16 @@ for chat in st.session_state.history:
 
 st.markdown('</div>', unsafe_allow_html=True)
 
-# 🔹 Input
-command = st.text_input("💬 Enter command")
+command = st.text_input(" Enter command")
 
-# 🔹 Buttons
 col1, col2 = st.columns([1, 1])
 
 with col1:
-    send_btn = st.button("🚀 Send")
+    send_btn = st.button("Send")
 
 with col2:
-    clear_btn = st.button("🗑 Clear")
+    clear_btn = st.button("Clear")
 
-# 🔹 Send Logic
 if send_btn and command.strip():
 
     # Save user message
@@ -115,7 +103,6 @@ if send_btn and command.strip():
     intent = predict_intent(command)
     response = perform_action(intent, command)
 
-    # 🔊 SPEAK RESPONSE (ASYNC → NO LAG)
     speak_async(response)
 
     # Save bot message
@@ -126,14 +113,13 @@ if send_btn and command.strip():
 
     st.rerun()
 
-# 🔹 Clear Chat
+# Clear Chat
 if clear_btn:
     st.session_state.history = []
     st.rerun()
 
-# 🔹 History Dropdown
 st.markdown("---")
-st.subheader("📜 Chat History")
+st.subheader(" Chat History")
 
 if st.session_state.history:
     options = [

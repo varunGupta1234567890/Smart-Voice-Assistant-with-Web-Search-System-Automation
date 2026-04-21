@@ -41,7 +41,7 @@ def normalize_text(text):
     return text
 
 def predict_intent(text):
-    text = normalize_text(text)   # 👈 NEW
+    text = normalize_text(text)   
     text = clean_text(text)
 
     vec = vectorizer.transform([text])

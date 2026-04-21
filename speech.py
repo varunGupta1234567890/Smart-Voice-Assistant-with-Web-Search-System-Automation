@@ -24,6 +24,7 @@ def clean_command(command):
     for wrong, correct in corrections.items():
         if wrong in command:
             command = command.replace(wrong, correct)
+            
     command = re.sub(r"\s+", " ",command).strip()
     return command
 
