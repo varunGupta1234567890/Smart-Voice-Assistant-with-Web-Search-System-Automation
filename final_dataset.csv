@@ -1,0 +1,286 @@
+command,intent
+play latest song,play_music
+abhi time kya hai,get_time
+shutdown system,system_control
+funny joke bolo,jokes
+tell me the time,get_time
+search weather today,search
+aaj ka weather kaisa hai please,weather
+youtube khol,open_app
+hey abhi time kya hai please,get_time
+temperature kitna hai please,weather
+play some music,play_music
+weather forecast batao,weather
+koi joke sunao,jokes
+hello,greeting
+namaste,greeting
+current time batao,get_time
+please tell time,get_time
+hey please launch youtube,open_app
+hey assistant,greeting
+hey laptop band karo please,system_control
+hey weather today please,weather
+make me laugh,jokes
+play bollywood songs,play_music
+look up latest tech news please,search
+mujhe hasao,jokes
+what time is it now please,get_time
+start music,play_music
+hey gaana chala,play_music
+google python tutorial,search
+hey please tell time please,get_time
+gaana chala,play_music
+what time is it now,get_time
+find news about india,search
+restart my pc,system_control
+hey is it raining today,weather
+search weather today please,search
+tell me a joke please,jokes
+hey google python tutorial please,search
+hey start notepad,open_app
+hey play bollywood songs,play_music
+hey aaj ka weather kaisa hai,weather
+start music please,play_music
+good morning,greeting
+weather today please,weather
+search artificial intelligence,search
+koi joke sunao please,jokes
+open youtube,open_app
+play some music please,play_music
+is it raining today,weather
+hey music on karo,play_music
+hey tell me the time,get_time
+time now,get_time
+make me laugh please,jokes
+hey lock my system please,system_control
+hey internet pe search karo,search
+hey tell me a joke,jokes
+hey look up latest tech news,search
+play a song,play_music
+hello bhai,greeting
+good evening,greeting
+hey google python tutorial,search
+calculator open karo,open_app
+hey hello bhai,greeting
+hey launch chrome browser please,open_app
+launch chrome browser,open_app
+internet pe search karo,search
+hey turn off laptop,system_control
+lock my system,system_control
+aaj ka weather kaisa hai,weather
+koi song chalao,play_music
+laptop band karo,system_control
+hey temperature kitna hai please,weather
+temperature kitna hai,weather
+tell me a joke,jokes
+hey turn off laptop please,system_control
+start notepad,open_app
+hey laptop band karo,system_control
+look up latest tech news,search
+can you open youtube,open_app
+open my browser,open_app
+hi,greeting
+hey play bollywood songs please,play_music
+hey open google please,open_app
+internet pe search karo please,search
+hey good morning,greeting
+please tell time please,get_time
+hey hi please,greeting
+hey what time is it now please,get_time
+what is machine learning please,search
+please launch youtube,open_app
+search artificial intelligence please,search
+namaste please,greeting
+gaana chala please,play_music
+koi song chalao please,play_music
+hey what time is it now,get_time
+open google,open_app
+sleep computer,system_control
+is it raining today please,weather
+can you open youtube please,open_app
+play latest song please,play_music
+what is machine learning,search
+hey hello please,greeting
+weather today,weather
+hey assistant please,greeting
+find news about india please,search
+hey play a song,play_music
+hey mujhe hasao please,jokes
+open google please,open_app
+hello please,greeting
+hey current time batao please,get_time
+hey open google,open_app
+hey hey assistant,greeting
+hi please,greeting
+turn off laptop,system_control
+good morning please,greeting
+lock my system please,system_control
+hey internet pe search karo please,search
+youtube khol please,open_app
+hey make me laugh please,jokes
+play a song please,play_music
+chrome start karo please,open_app
+hey search artificial intelligence,search
+hey koi song chalao,play_music
+tell me the time please,get_time
+turn off laptop please,system_control
+current time batao please,get_time
+hey open my browser,open_app
+hey hello,greeting
+hey please launch youtube please,open_app
+hey koi song chalao please,play_music
+hey weather forecast batao please,weather
+ai kya hai,search
+music on karo,play_music
+hey can you open youtube,open_app
+start notepad please,open_app
+hey mujhe hasao,jokes
+hey lock my system,system_control
+weather forecast batao please,weather
+abhi time kya hai please,get_time
+funny joke bolo please,jokes
+hey play some music,play_music
+hey aaj ka weather kaisa hai please,weather
+hey restart my pc,system_control
+sleep computer please,system_control
+hey koi joke sunao,jokes
+hello bhai please,greeting
+shutdown system please,system_control
+hey start music,play_music
+hey sleep computer,system_control
+hey funny joke bolo,jokes
+time now please,get_time
+hey namaste,greeting
+hey current time batao,get_time
+hey make me laugh,jokes
+hey weather forecast batao,weather
+open my browser please,open_app
+google python tutorial please,search
+ai kya hai please,search
+play bollywood songs please,play_music
+hey what is machine learning please,search
+hey time now,get_time
+hey temperature kitna hai,weather
+chrome start karo,open_app
+hey look up latest tech news please,search
+hey restart my pc please,system_control
+good evening please,greeting
+laptop band karo please,system_control
+hey music on karo please,play_music
+music on karo please,play_music
+calculator open karo please,open_app
+hey calculator open karo,open_app
+mujhe hasao please,jokes
+please launch youtube please,open_app
+hey shutdown system,system_control
+hey play latest song,play_music
+hey find news about india,search
+hey weather today,weather
+hey what is machine learning,search
+hey namaste please,greeting
+hey search weather today,search
+hey start music please,play_music
+hey tell me a joke please,jokes
+hey abhi time kya hai,get_time
+open youtube please,open_app
+hey hi,greeting
+hey gaana chala please,play_music
+hey open youtube please,open_app
+hey ai kya hai please,search
+hey chrome start karo,open_app
+hey please tell time,get_time
+launch chrome browser please,open_app
+hey sleep computer please,system_control
+hey youtube khol,open_app
+hey play some music please,play_music
+restart my pc please,system_control
+hey is it raining today please,weather
+hey shutdown system please,system_control
+hey good evening,greeting
+hey open my browser please,open_app
+hey can you open youtube please,open_app
+hey open youtube,open_app
+hey search artificial intelligence please,search
+hey hey assistant please,greeting
+hey good morning please,greeting
+hey launch chrome browser,open_app
+hey ai kya hai,search
+hey find news about india please,search
+hey koi joke sunao please,jokes
+hey play a song please,play_music
+hey hello bhai please,greeting
+hey tell me the time please,get_time
+hey time now please,get_time
+hey youtube khol please,open_app
+hey play latest song please,play_music
+hey chrome start karo please,open_app
+start whatsapp,open_app
+start google,open_app
+open whatsapp app,open_app
+start instagram,open_app
+start netflix,open_app
+open spotify,open_app
+start facebook,open_app
+open instagram app,open_app
+can you open netflix,open_app
+open netflix app,open_app
+start youtube,open_app
+launch facebook,open_app
+open google app,open_app
+can you open spotify,open_app
+launch instagram,open_app
+open spotify app,open_app
+open facebook app,open_app
+launch whatsapp,open_app
+can you open whatsapp,open_app
+open whatsapp,open_app
+open facebook,open_app
+launch youtube,open_app
+open netflix,open_app
+can you open instagram,open_app
+can you open facebook,open_app
+open youtube app,open_app
+launch spotify,open_app
+launch google,open_app
+can you open google,open_app
+open instagram,open_app
+start spotify,open_app
+launch netflix,open_app
+play despacito,play_music
+play some song,play_music
+play music,play_music
+play believer,play_music
+play kesariya,play_music
+play shape of you,play_music
+what is the time,get_time
+current time,get_time
+tell me time,get_time
+what is cricket,search
+what is space,search
+what is AI,search
+what is India,search
+who is AI,search
+search about Elon Musk,search
+search about black hole,search
+search about cricket,search
+who is space,search
+what is Narendra Modi,search
+who is Elon Musk,search
+tell me about cricket,search
+search about India,search
+tell me about Elon Musk,search
+tell me about space,search
+what is Elon Musk,search
+tell me about India,search
+search about space,search
+search about Narendra Modi,search
+what is black hole,search
+search about AI,search
+who is India,search
+who is Narendra Modi,search
+who is cricket,search
+who is black hole,search
+tell me about Narendra Modi,search
+tell me about black hole,search
+tell me about AI,search
+hey,greeting

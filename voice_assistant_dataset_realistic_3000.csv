@@ -1,0 +1,3001 @@
+text,intent
+play latest song,play_music
+abhi time kya hai,get_time
+shutdown system,system_control
+funny joke bolo,jokes
+tell me the time,get_time
+search weather today,search
+search weather today,search
+aaj ka weather kaisa hai please,weather
+youtube khol,open_app
+hey abhi time kya hai please,get_time
+temperature kitna hai please,weather
+play some music,play_music
+weather forecast batao,weather
+koi joke sunao,jokes
+hello,greeting
+namaste,greeting
+namaste,greeting
+current time batao,get_time
+please tell time,get_time
+hey please launch youtube,open_app
+hey assistant,greeting
+hey laptop band karo please,system_control
+hey weather today please,weather
+make me laugh,jokes
+play bollywood songs,play_music
+look up latest tech news please,search
+namaste,greeting
+mujhe hasao,jokes
+what time is it now please,get_time
+start music,play_music
+hey gaana chala,play_music
+google python tutorial,search
+hey please tell time please,get_time
+gaana chala,play_music
+what time is it now,get_time
+tell me the time,get_time
+find news about india,search
+shutdown system,system_control
+mujhe hasao,jokes
+restart my pc,system_control
+hey is it raining today,weather
+hey weather today please,weather
+temperature kitna hai please,weather
+search weather today please,search
+play some music,play_music
+tell me a joke please,jokes
+hey google python tutorial please,search
+hey start notepad,open_app
+what time is it now please,get_time
+hey play bollywood songs,play_music
+hey aaj ka weather kaisa hai,weather
+start music please,play_music
+good morning,greeting
+weather today please,weather
+mujhe hasao,jokes
+what time is it now,get_time
+search artificial intelligence,search
+hey play bollywood songs,play_music
+tell me a joke please,jokes
+koi joke sunao please,jokes
+koi joke sunao,jokes
+tell me the time,get_time
+open youtube,open_app
+koi joke sunao,jokes
+play some music please,play_music
+temperature kitna hai please,weather
+temperature kitna hai please,weather
+is it raining today,weather
+search weather today please,search
+hey music on karo,play_music
+hey tell me the time,get_time
+time now,get_time
+weather forecast batao,weather
+gaana chala,play_music
+make me laugh please,jokes
+hey lock my system please,system_control
+hey internet pe search karo,search
+restart my pc,system_control
+abhi time kya hai,get_time
+hey tell me a joke,jokes
+hey look up latest tech news,search
+play a song,play_music
+hello bhai,greeting
+good evening,greeting
+hey google python tutorial,search
+hey google python tutorial,search
+calculator open karo,open_app
+play latest song,play_music
+hey hello bhai,greeting
+hey launch chrome browser please,open_app
+shutdown system,system_control
+launch chrome browser,open_app
+internet pe search karo,search
+abhi time kya hai,get_time
+find news about india,search
+what time is it now,get_time
+current time batao,get_time
+hey turn off laptop,system_control
+weather forecast batao,weather
+lock my system,system_control
+good morning,greeting
+aaj ka weather kaisa hai,weather
+play a song,play_music
+koi song chalao,play_music
+hello bhai,greeting
+current time batao,get_time
+laptop band karo,system_control
+hey temperature kitna hai please,weather
+koi joke sunao,jokes
+temperature kitna hai,weather
+tell me a joke,jokes
+play latest song,play_music
+hey turn off laptop please,system_control
+start notepad,open_app
+restart my pc,system_control
+hey laptop band karo,system_control
+what time is it now please,get_time
+look up latest tech news,search
+can you open youtube,open_app
+what time is it now,get_time
+open my browser,open_app
+hello,greeting
+hi,greeting
+hey play bollywood songs please,play_music
+current time batao,get_time
+tell me a joke please,jokes
+aaj ka weather kaisa hai please,weather
+hey open google please,open_app
+gaana chala,play_music
+internet pe search karo please,search
+play bollywood songs,play_music
+hey aaj ka weather kaisa hai,weather
+start notepad,open_app
+make me laugh,jokes
+make me laugh please,jokes
+hey good morning,greeting
+please tell time please,get_time
+hey hi please,greeting
+what time is it now please,get_time
+abhi time kya hai,get_time
+hey what time is it now please,get_time
+what is machine learning please,search
+good morning,greeting
+play latest song,play_music
+tell me a joke,jokes
+laptop band karo,system_control
+please launch youtube,open_app
+is it raining today,weather
+search artificial intelligence please,search
+namaste please,greeting
+please launch youtube,open_app
+gaana chala please,play_music
+abhi time kya hai,get_time
+launch chrome browser,open_app
+hey look up latest tech news,search
+koi song chalao please,play_music
+what time is it now,get_time
+play latest song,play_music
+hello,greeting
+tell me a joke,jokes
+koi joke sunao,jokes
+can you open youtube,open_app
+funny joke bolo,jokes
+funny joke bolo,jokes
+namaste please,greeting
+make me laugh,jokes
+tell me a joke please,jokes
+temperature kitna hai,weather
+open youtube,open_app
+koi joke sunao please,jokes
+hey what time is it now,get_time
+start notepad,open_app
+open google,open_app
+namaste please,greeting
+sleep computer,system_control
+temperature kitna hai please,weather
+launch chrome browser,open_app
+gaana chala,play_music
+is it raining today please,weather
+can you open youtube please,open_app
+play latest song please,play_music
+koi song chalao please,play_music
+what time is it now,get_time
+search artificial intelligence please,search
+what is machine learning,search
+hey hello please,greeting
+temperature kitna hai,weather
+weather today,weather
+search artificial intelligence,search
+hey assistant please,greeting
+koi joke sunao,jokes
+find news about india please,search
+hey play a song,play_music
+start music please,play_music
+mujhe hasao,jokes
+funny joke bolo,jokes
+weather today please,weather
+is it raining today please,weather
+sleep computer,system_control
+koi song chalao please,play_music
+hey mujhe hasao please,jokes
+hey please launch youtube,open_app
+find news about india,search
+hello,greeting
+tell me a joke please,jokes
+open my browser,open_app
+is it raining today,weather
+calculator open karo,open_app
+open google please,open_app
+current time batao,get_time
+play some music,play_music
+what is machine learning please,search
+abhi time kya hai,get_time
+hello please,greeting
+aaj ka weather kaisa hai,weather
+hey current time batao please,get_time
+can you open youtube,open_app
+koi song chalao,play_music
+current time batao,get_time
+sleep computer,system_control
+temperature kitna hai please,weather
+funny joke bolo,jokes
+make me laugh,jokes
+google python tutorial,search
+hey open google,open_app
+hey hey assistant,greeting
+hi please,greeting
+please tell time,get_time
+start music,play_music
+hey launch chrome browser please,open_app
+find news about india,search
+turn off laptop,system_control
+play some music,play_music
+hey hello bhai,greeting
+what time is it now,get_time
+can you open youtube please,open_app
+internet pe search karo please,search
+shutdown system,system_control
+time now,get_time
+what time is it now,get_time
+tell me a joke,jokes
+good morning please,greeting
+tell me a joke,jokes
+temperature kitna hai,weather
+internet pe search karo please,search
+play latest song,play_music
+mujhe hasao,jokes
+play a song,play_music
+lock my system please,system_control
+hey assistant,greeting
+make me laugh,jokes
+is it raining today,weather
+hey what time is it now,get_time
+hey play bollywood songs,play_music
+hey internet pe search karo please,search
+weather forecast batao,weather
+calculator open karo,open_app
+youtube khol please,open_app
+koi joke sunao,jokes
+hey make me laugh please,jokes
+lock my system,system_control
+open google,open_app
+play a song please,play_music
+koi joke sunao,jokes
+koi joke sunao please,jokes
+chrome start karo please,open_app
+hey search artificial intelligence,search
+calculator open karo,open_app
+hey koi song chalao,play_music
+weather today please,weather
+koi song chalao,play_music
+tell me the time,get_time
+tell me the time please,get_time
+hey assistant please,greeting
+current time batao,get_time
+hello,greeting
+turn off laptop please,system_control
+koi song chalao,play_music
+shutdown system,system_control
+current time batao please,get_time
+hey open my browser,open_app
+shutdown system,system_control
+look up latest tech news,search
+play some music please,play_music
+good morning,greeting
+shutdown system,system_control
+hello,greeting
+temperature kitna hai,weather
+hey hello,greeting
+tell me a joke,jokes
+hey turn off laptop please,system_control
+start notepad,open_app
+find news about india please,search
+youtube khol,open_app
+chrome start karo please,open_app
+make me laugh,jokes
+look up latest tech news,search
+good morning,greeting
+make me laugh,jokes
+hey please launch youtube please,open_app
+turn off laptop,system_control
+weather today,weather
+what time is it now,get_time
+koi joke sunao,jokes
+turn off laptop,system_control
+hey koi song chalao please,play_music
+hey weather forecast batao please,weather
+is it raining today,weather
+start music,play_music
+abhi time kya hai,get_time
+ai kya hai,search
+weather today,weather
+tell me the time,get_time
+start notepad,open_app
+turn off laptop please,system_control
+temperature kitna hai,weather
+calculator open karo,open_app
+music on karo,play_music
+hey can you open youtube,open_app
+good evening,greeting
+is it raining today,weather
+weather today,weather
+hey gaana chala,play_music
+hey hello,greeting
+start notepad please,open_app
+music on karo,play_music
+weather today,weather
+chrome start karo please,open_app
+please tell time please,get_time
+internet pe search karo,search
+make me laugh,jokes
+sleep computer,system_control
+start notepad,open_app
+make me laugh please,jokes
+hey mujhe hasao,jokes
+hey lock my system,system_control
+can you open youtube,open_app
+weather today,weather
+start notepad,open_app
+gaana chala please,play_music
+please tell time,get_time
+lock my system,system_control
+google python tutorial,search
+namaste please,greeting
+please tell time,get_time
+namaste,greeting
+turn off laptop,system_control
+good evening,greeting
+abhi time kya hai,get_time
+turn off laptop please,system_control
+lock my system,system_control
+can you open youtube please,open_app
+hey google python tutorial,search
+hey hello,greeting
+is it raining today,weather
+weather today,weather
+tell me a joke,jokes
+weather forecast batao please,weather
+aaj ka weather kaisa hai,weather
+please tell time please,get_time
+tell me the time,get_time
+abhi time kya hai please,get_time
+tell me a joke,jokes
+hello,greeting
+tell me a joke,jokes
+gaana chala,play_music
+koi joke sunao,jokes
+funny joke bolo please,jokes
+look up latest tech news,search
+koi song chalao please,play_music
+sleep computer,system_control
+weather forecast batao,weather
+music on karo,play_music
+play some music,play_music
+google python tutorial,search
+hey play some music,play_music
+gaana chala,play_music
+hey aaj ka weather kaisa hai please,weather
+play latest song,play_music
+launch chrome browser,open_app
+is it raining today,weather
+please tell time,get_time
+open youtube,open_app
+launch chrome browser,open_app
+abhi time kya hai,get_time
+what time is it now please,get_time
+make me laugh please,jokes
+aaj ka weather kaisa hai,weather
+hey restart my pc,system_control
+sleep computer please,system_control
+hey koi joke sunao,jokes
+ai kya hai,search
+good evening,greeting
+tell me the time,get_time
+open youtube,open_app
+hi,greeting
+sleep computer,system_control
+temperature kitna hai please,weather
+hello bhai please,greeting
+play latest song please,play_music
+temperature kitna hai please,weather
+play some music,play_music
+restart my pc,system_control
+hey aaj ka weather kaisa hai please,weather
+shutdown system,system_control
+hey assistant please,greeting
+shutdown system please,system_control
+hey start music,play_music
+hey is it raining today,weather
+hey sleep computer,system_control
+hey start notepad,open_app
+play latest song,play_music
+find news about india,search
+hey play a song,play_music
+hey funny joke bolo,jokes
+lock my system please,system_control
+hey assistant,greeting
+look up latest tech news,search
+hey open google please,open_app
+koi joke sunao please,jokes
+what is machine learning please,search
+find news about india,search
+funny joke bolo,jokes
+restart my pc,system_control
+lock my system,system_control
+play bollywood songs,play_music
+current time batao,get_time
+gaana chala please,play_music
+tell me the time,get_time
+internet pe search karo,search
+can you open youtube,open_app
+gaana chala,play_music
+find news about india please,search
+time now please,get_time
+play some music please,play_music
+google python tutorial,search
+hey namaste,greeting
+turn off laptop,system_control
+internet pe search karo,search
+weather forecast batao,weather
+hey current time batao,get_time
+play bollywood songs,play_music
+hey make me laugh,jokes
+current time batao,get_time
+sleep computer,system_control
+play latest song,play_music
+tell me a joke,jokes
+hey make me laugh,jokes
+hey turn off laptop,system_control
+hey weather forecast batao please,weather
+time now,get_time
+hey hello bhai,greeting
+please tell time,get_time
+tell me the time please,get_time
+turn off laptop please,system_control
+hey is it raining today,weather
+namaste,greeting
+what time is it now,get_time
+weather forecast batao,weather
+tell me the time please,get_time
+search weather today,search
+mujhe hasao,jokes
+what is machine learning,search
+make me laugh,jokes
+hey weather forecast batao,weather
+turn off laptop,system_control
+play bollywood songs,play_music
+open youtube,open_app
+aaj ka weather kaisa hai please,weather
+find news about india,search
+is it raining today please,weather
+turn off laptop,system_control
+internet pe search karo please,search
+hey music on karo,play_music
+abhi time kya hai,get_time
+calculator open karo,open_app
+koi joke sunao,jokes
+hello please,greeting
+make me laugh please,jokes
+ai kya hai,search
+hello please,greeting
+funny joke bolo,jokes
+temperature kitna hai please,weather
+is it raining today,weather
+koi joke sunao,jokes
+sleep computer,system_control
+google python tutorial,search
+weather forecast batao,weather
+open my browser please,open_app
+good morning please,greeting
+tell me the time please,get_time
+is it raining today,weather
+tell me a joke,jokes
+sleep computer,system_control
+search weather today please,search
+make me laugh please,jokes
+laptop band karo,system_control
+play latest song,play_music
+ai kya hai,search
+temperature kitna hai,weather
+koi song chalao,play_music
+what time is it now please,get_time
+google python tutorial please,search
+koi joke sunao please,jokes
+tell me the time,get_time
+tell me the time,get_time
+hey search artificial intelligence,search
+koi joke sunao,jokes
+sleep computer,system_control
+mujhe hasao,jokes
+laptop band karo,system_control
+namaste,greeting
+aaj ka weather kaisa hai,weather
+can you open youtube,open_app
+what is machine learning please,search
+hi please,greeting
+hey namaste,greeting
+hello bhai,greeting
+hey assistant please,greeting
+hey aaj ka weather kaisa hai,weather
+tell me a joke,jokes
+hey assistant,greeting
+hey weather forecast batao please,weather
+aaj ka weather kaisa hai,weather
+hi,greeting
+gaana chala,play_music
+abhi time kya hai please,get_time
+ai kya hai please,search
+play bollywood songs please,play_music
+turn off laptop,system_control
+play bollywood songs please,play_music
+hey assistant,greeting
+internet pe search karo,search
+chrome start karo please,open_app
+hey turn off laptop please,system_control
+namaste,greeting
+can you open youtube,open_app
+make me laugh please,jokes
+open google,open_app
+please tell time please,get_time
+make me laugh,jokes
+weather forecast batao,weather
+hey is it raining today,weather
+weather today,weather
+google python tutorial,search
+hey assistant,greeting
+play bollywood songs please,play_music
+gaana chala,play_music
+hey aaj ka weather kaisa hai,weather
+what time is it now,get_time
+hey what is machine learning please,search
+weather forecast batao,weather
+sleep computer please,system_control
+what time is it now please,get_time
+play latest song,play_music
+hey time now,get_time
+hey temperature kitna hai,weather
+search artificial intelligence please,search
+tell me a joke,jokes
+temperature kitna hai,weather
+hey koi song chalao,play_music
+tell me the time please,get_time
+turn off laptop,system_control
+play latest song,play_music
+tell me a joke,jokes
+good morning please,greeting
+chrome start karo,open_app
+koi joke sunao please,jokes
+hello bhai,greeting
+hey look up latest tech news please,search
+play bollywood songs,play_music
+is it raining today,weather
+hey time now,get_time
+hey assistant,greeting
+lock my system please,system_control
+ai kya hai,search
+is it raining today,weather
+tell me a joke,jokes
+tell me a joke,jokes
+hey tell me a joke,jokes
+hey laptop band karo,system_control
+hey look up latest tech news,search
+good evening,greeting
+weather today please,weather
+aaj ka weather kaisa hai,weather
+open google please,open_app
+please launch youtube,open_app
+play a song,play_music
+find news about india please,search
+koi joke sunao,jokes
+hey restart my pc please,system_control
+weather forecast batao please,weather
+hello bhai,greeting
+please launch youtube,open_app
+hey assistant,greeting
+good evening please,greeting
+start music,play_music
+hello,greeting
+sleep computer,system_control
+shutdown system please,system_control
+weather forecast batao please,weather
+laptop band karo please,system_control
+hey turn off laptop,system_control
+tell me a joke please,jokes
+hey hello,greeting
+play some music,play_music
+good morning,greeting
+hey music on karo please,play_music
+start notepad please,open_app
+good morning,greeting
+ai kya hai,search
+koi joke sunao,jokes
+hello,greeting
+sleep computer please,system_control
+search weather today,search
+gaana chala,play_music
+hey tell me the time,get_time
+gaana chala please,play_music
+please tell time please,get_time
+look up latest tech news please,search
+chrome start karo,open_app
+gaana chala,play_music
+hey assistant,greeting
+play a song please,play_music
+music on karo please,play_music
+shutdown system,system_control
+good morning,greeting
+tell me the time,get_time
+time now please,get_time
+good evening,greeting
+calculator open karo please,open_app
+good morning please,greeting
+what is machine learning,search
+hey hello,greeting
+internet pe search karo,search
+what time is it now,get_time
+what is machine learning,search
+aaj ka weather kaisa hai,weather
+abhi time kya hai,get_time
+aaj ka weather kaisa hai,weather
+time now,get_time
+hey hello please,greeting
+what time is it now,get_time
+hey calculator open karo,open_app
+make me laugh,jokes
+hey tell me a joke,jokes
+chrome start karo,open_app
+mujhe hasao please,jokes
+hi,greeting
+shutdown system,system_control
+hey look up latest tech news,search
+namaste,greeting
+tell me a joke,jokes
+funny joke bolo,jokes
+restart my pc,system_control
+search weather today,search
+please launch youtube please,open_app
+play latest song,play_music
+is it raining today,weather
+mujhe hasao,jokes
+what time is it now,get_time
+funny joke bolo,jokes
+funny joke bolo,jokes
+internet pe search karo please,search
+hey make me laugh,jokes
+search weather today please,search
+weather today,weather
+good evening,greeting
+tell me the time,get_time
+koi song chalao,play_music
+good morning,greeting
+tell me a joke,jokes
+lock my system please,system_control
+ai kya hai,search
+make me laugh please,jokes
+hey mujhe hasao please,jokes
+mujhe hasao,jokes
+restart my pc,system_control
+hey internet pe search karo,search
+launch chrome browser,open_app
+koi joke sunao,jokes
+good morning,greeting
+good morning,greeting
+please tell time,get_time
+internet pe search karo,search
+restart my pc,system_control
+weather forecast batao,weather
+find news about india,search
+sleep computer please,system_control
+hey shutdown system,system_control
+can you open youtube please,open_app
+weather forecast batao,weather
+ai kya hai,search
+tell me a joke,jokes
+good morning please,greeting
+hey play latest song,play_music
+can you open youtube,open_app
+hey hey assistant,greeting
+good evening please,greeting
+hey find news about india,search
+what time is it now,get_time
+hey weather today,weather
+hello,greeting
+hey what is machine learning,search
+hey weather forecast batao,weather
+hello please,greeting
+is it raining today please,weather
+music on karo,play_music
+hey hello please,greeting
+shutdown system,system_control
+internet pe search karo please,search
+temperature kitna hai,weather
+shutdown system,system_control
+look up latest tech news,search
+what is machine learning,search
+hey play some music,play_music
+play latest song,play_music
+music on karo please,play_music
+good morning please,greeting
+hello,greeting
+current time batao please,get_time
+hey start notepad,open_app
+funny joke bolo please,jokes
+hey mujhe hasao please,jokes
+hey find news about india,search
+mujhe hasao,jokes
+search weather today,search
+can you open youtube,open_app
+open google please,open_app
+current time batao,get_time
+hey start music,play_music
+namaste,greeting
+turn off laptop,system_control
+weather today,weather
+hello bhai,greeting
+hey weather today please,weather
+hey assistant please,greeting
+hey aaj ka weather kaisa hai,weather
+weather forecast batao,weather
+shutdown system,system_control
+turn off laptop,system_control
+what is machine learning,search
+funny joke bolo,jokes
+mujhe hasao,jokes
+hey internet pe search karo,search
+koi joke sunao,jokes
+koi joke sunao please,jokes
+good evening,greeting
+hello bhai please,greeting
+play a song,play_music
+hey what time is it now please,get_time
+hey koi joke sunao,jokes
+music on karo please,play_music
+temperature kitna hai,weather
+mujhe hasao,jokes
+sleep computer,system_control
+play latest song,play_music
+hey play bollywood songs,play_music
+lock my system,system_control
+calculator open karo,open_app
+namaste,greeting
+ai kya hai,search
+please launch youtube please,open_app
+abhi time kya hai,get_time
+find news about india,search
+time now please,get_time
+restart my pc,system_control
+hey play a song,play_music
+weather forecast batao,weather
+open my browser,open_app
+hey assistant,greeting
+what time is it now,get_time
+please tell time,get_time
+mujhe hasao please,jokes
+search artificial intelligence,search
+what is machine learning,search
+hey tell me the time,get_time
+calculator open karo,open_app
+hey assistant please,greeting
+hey shutdown system,system_control
+hey funny joke bolo,jokes
+current time batao,get_time
+tell me the time please,get_time
+look up latest tech news please,search
+youtube khol please,open_app
+internet pe search karo,search
+hi,greeting
+weather today,weather
+youtube khol please,open_app
+hey namaste please,greeting
+music on karo,play_music
+good evening,greeting
+hey google python tutorial,search
+funny joke bolo,jokes
+is it raining today,weather
+tell me a joke,jokes
+hey weather forecast batao,weather
+music on karo,play_music
+what is machine learning,search
+start music,play_music
+hey search weather today,search
+shutdown system,system_control
+look up latest tech news,search
+look up latest tech news,search
+play a song,play_music
+sleep computer,system_control
+search artificial intelligence,search
+weather forecast batao,weather
+is it raining today,weather
+current time batao,get_time
+hey assistant,greeting
+make me laugh,jokes
+hey make me laugh,jokes
+search weather today,search
+sleep computer,system_control
+hey what time is it now,get_time
+what is machine learning,search
+hey weather forecast batao,weather
+please launch youtube please,open_app
+search artificial intelligence please,search
+what time is it now,get_time
+hello,greeting
+hey find news about india,search
+koi joke sunao,jokes
+hey start music please,play_music
+play bollywood songs please,play_music
+restart my pc,system_control
+hey tell me a joke,jokes
+hey tell me a joke please,jokes
+shutdown system please,system_control
+launch chrome browser,open_app
+funny joke bolo,jokes
+calculator open karo please,open_app
+play some music please,play_music
+hey abhi time kya hai,get_time
+sleep computer please,system_control
+calculator open karo please,open_app
+hey play bollywood songs please,play_music
+search weather today please,search
+weather forecast batao,weather
+can you open youtube,open_app
+shutdown system please,system_control
+make me laugh please,jokes
+tell me the time,get_time
+is it raining today please,weather
+look up latest tech news,search
+open youtube please,open_app
+lock my system please,system_control
+search weather today please,search
+hey internet pe search karo please,search
+laptop band karo please,system_control
+hey funny joke bolo,jokes
+hey assistant please,greeting
+weather forecast batao,weather
+mujhe hasao,jokes
+hey open my browser,open_app
+what time is it now please,get_time
+laptop band karo please,system_control
+hey abhi time kya hai,get_time
+hey hi,greeting
+what is machine learning please,search
+hello bhai,greeting
+sleep computer please,system_control
+hey funny joke bolo,jokes
+good morning,greeting
+find news about india,search
+play latest song please,play_music
+google python tutorial please,search
+sleep computer,system_control
+hey internet pe search karo please,search
+good evening,greeting
+tell me a joke,jokes
+search weather today,search
+hey start notepad,open_app
+hey namaste,greeting
+lock my system,system_control
+play bollywood songs please,play_music
+hey aaj ka weather kaisa hai,weather
+play a song,play_music
+hey mujhe hasao,jokes
+weather forecast batao,weather
+tell me a joke,jokes
+play some music,play_music
+hey gaana chala please,play_music
+gaana chala,play_music
+gaana chala please,play_music
+youtube khol,open_app
+weather forecast batao please,weather
+hey time now,get_time
+hey find news about india,search
+hey temperature kitna hai please,weather
+hey namaste please,greeting
+find news about india please,search
+internet pe search karo,search
+music on karo please,play_music
+hey assistant,greeting
+hey restart my pc,system_control
+play some music please,play_music
+hey mujhe hasao,jokes
+tell me the time,get_time
+hello,greeting
+tell me a joke,jokes
+tell me the time,get_time
+hey assistant,greeting
+search artificial intelligence please,search
+hey search weather today,search
+hey please launch youtube,open_app
+hey hello,greeting
+lock my system,system_control
+hey play a song,play_music
+hey open google,open_app
+namaste,greeting
+internet pe search karo please,search
+hey make me laugh,jokes
+shutdown system,system_control
+start music,play_music
+youtube khol,open_app
+turn off laptop,system_control
+hey open youtube please,open_app
+search weather today,search
+sleep computer please,system_control
+tell me a joke please,jokes
+hello bhai please,greeting
+hey start music,play_music
+start music,play_music
+current time batao,get_time
+please launch youtube,open_app
+temperature kitna hai,weather
+funny joke bolo,jokes
+time now,get_time
+hi,greeting
+mujhe hasao,jokes
+aaj ka weather kaisa hai,weather
+restart my pc,system_control
+sleep computer,system_control
+gaana chala,play_music
+current time batao please,get_time
+sleep computer,system_control
+shutdown system please,system_control
+launch chrome browser,open_app
+restart my pc,system_control
+hey ai kya hai please,search
+start notepad please,open_app
+mujhe hasao,jokes
+lock my system,system_control
+hey chrome start karo,open_app
+time now,get_time
+current time batao,get_time
+music on karo please,play_music
+weather forecast batao please,weather
+is it raining today please,weather
+tell me the time,get_time
+gaana chala,play_music
+ai kya hai,search
+namaste please,greeting
+namaste,greeting
+play some music,play_music
+start notepad,open_app
+chrome start karo,open_app
+is it raining today,weather
+hey hello bhai,greeting
+koi song chalao please,play_music
+shutdown system,system_control
+time now,get_time
+internet pe search karo,search
+search weather today,search
+tell me a joke,jokes
+start music,play_music
+play latest song please,play_music
+shutdown system please,system_control
+hey please launch youtube,open_app
+hey please tell time,get_time
+current time batao,get_time
+koi joke sunao please,jokes
+namaste please,greeting
+restart my pc,system_control
+weather forecast batao,weather
+launch chrome browser please,open_app
+funny joke bolo,jokes
+abhi time kya hai,get_time
+good evening,greeting
+make me laugh,jokes
+please launch youtube,open_app
+what time is it now please,get_time
+hey internet pe search karo,search
+hey sleep computer please,system_control
+hey tell me a joke please,jokes
+mujhe hasao,jokes
+look up latest tech news,search
+lock my system,system_control
+temperature kitna hai,weather
+google python tutorial,search
+can you open youtube,open_app
+mujhe hasao,jokes
+hey assistant please,greeting
+play a song,play_music
+look up latest tech news,search
+hey temperature kitna hai,weather
+hi please,greeting
+hey aaj ka weather kaisa hai,weather
+koi song chalao,play_music
+namaste,greeting
+can you open youtube please,open_app
+hey koi joke sunao,jokes
+hey koi song chalao,play_music
+hey music on karo please,play_music
+is it raining today,weather
+is it raining today,weather
+hey youtube khol,open_app
+namaste please,greeting
+current time batao,get_time
+search artificial intelligence,search
+look up latest tech news please,search
+funny joke bolo,jokes
+funny joke bolo,jokes
+lock my system,system_control
+mujhe hasao,jokes
+hey music on karo please,play_music
+music on karo please,play_music
+koi song chalao,play_music
+funny joke bolo please,jokes
+time now,get_time
+hey can you open youtube,open_app
+tell me a joke,jokes
+tell me the time,get_time
+tell me a joke please,jokes
+hey play some music please,play_music
+open my browser please,open_app
+hey play some music,play_music
+is it raining today please,weather
+hey restart my pc,system_control
+make me laugh please,jokes
+hey turn off laptop,system_control
+temperature kitna hai,weather
+good morning please,greeting
+music on karo,play_music
+make me laugh,jokes
+shutdown system,system_control
+hey abhi time kya hai please,get_time
+calculator open karo,open_app
+search artificial intelligence,search
+please tell time,get_time
+sleep computer please,system_control
+music on karo please,play_music
+abhi time kya hai please,get_time
+hey lock my system,system_control
+tell me a joke,jokes
+hey search weather today,search
+hey lock my system,system_control
+weather today,weather
+hey restart my pc please,system_control
+play bollywood songs,play_music
+search artificial intelligence please,search
+gaana chala,play_music
+launch chrome browser,open_app
+hello bhai,greeting
+hello,greeting
+restart my pc please,system_control
+search artificial intelligence please,search
+play some music please,play_music
+abhi time kya hai please,get_time
+hey internet pe search karo,search
+gaana chala please,play_music
+tell me the time,get_time
+tell me the time,get_time
+google python tutorial,search
+hey is it raining today,weather
+what is machine learning,search
+make me laugh,jokes
+calculator open karo,open_app
+open my browser,open_app
+hey restart my pc,system_control
+make me laugh,jokes
+tell me the time,get_time
+gaana chala,play_music
+play latest song,play_music
+please tell time please,get_time
+funny joke bolo,jokes
+start music,play_music
+hey tell me the time,get_time
+hey assistant,greeting
+music on karo please,play_music
+hi,greeting
+what is machine learning please,search
+please tell time,get_time
+make me laugh,jokes
+hey make me laugh,jokes
+hey aaj ka weather kaisa hai,weather
+play a song,play_music
+can you open youtube,open_app
+time now please,get_time
+hey calculator open karo,open_app
+weather forecast batao,weather
+play some music please,play_music
+search artificial intelligence,search
+hello,greeting
+hey current time batao,get_time
+sleep computer please,system_control
+is it raining today,weather
+search artificial intelligence,search
+lock my system please,system_control
+chrome start karo please,open_app
+weather today,weather
+koi song chalao,play_music
+hey play latest song,play_music
+what time is it now,get_time
+what time is it now please,get_time
+start music,play_music
+hey is it raining today please,weather
+youtube khol,open_app
+temperature kitna hai please,weather
+google python tutorial,search
+sleep computer,system_control
+find news about india,search
+hey open my browser,open_app
+koi song chalao please,play_music
+abhi time kya hai,get_time
+hello,greeting
+namaste,greeting
+current time batao please,get_time
+hey current time batao,get_time
+temperature kitna hai,weather
+search weather today please,search
+calculator open karo,open_app
+hey hi please,greeting
+youtube khol,open_app
+hey assistant,greeting
+hey tell me a joke,jokes
+restart my pc please,system_control
+start music please,play_music
+hey ai kya hai please,search
+hi,greeting
+hey namaste,greeting
+koi joke sunao please,jokes
+play a song,play_music
+chrome start karo,open_app
+is it raining today,weather
+hey play bollywood songs,play_music
+funny joke bolo,jokes
+hey current time batao,get_time
+current time batao please,get_time
+look up latest tech news,search
+music on karo please,play_music
+hey good morning,greeting
+current time batao,get_time
+good morning,greeting
+hey start notepad,open_app
+please tell time please,get_time
+hey google python tutorial,search
+hey shutdown system,system_control
+laptop band karo,system_control
+funny joke bolo,jokes
+search weather today,search
+hey shutdown system,system_control
+hey what time is it now please,get_time
+internet pe search karo,search
+hey good morning,greeting
+koi joke sunao,jokes
+search artificial intelligence,search
+good morning please,greeting
+good evening,greeting
+abhi time kya hai,get_time
+what time is it now,get_time
+namaste please,greeting
+what is machine learning,search
+restart my pc,system_control
+hello bhai,greeting
+hey temperature kitna hai,weather
+koi joke sunao,jokes
+search artificial intelligence please,search
+hey shutdown system please,system_control
+hello bhai,greeting
+chrome start karo,open_app
+search weather today please,search
+mujhe hasao,jokes
+start music please,play_music
+what time is it now,get_time
+restart my pc,system_control
+hello,greeting
+hey koi song chalao,play_music
+hi,greeting
+hey start music please,play_music
+hi,greeting
+lock my system,system_control
+time now,get_time
+hey what time is it now please,get_time
+search artificial intelligence,search
+hey look up latest tech news,search
+internet pe search karo please,search
+good evening please,greeting
+turn off laptop please,system_control
+good morning please,greeting
+turn off laptop,system_control
+hey good evening,greeting
+tell me the time,get_time
+namaste,greeting
+laptop band karo please,system_control
+koi joke sunao please,jokes
+weather forecast batao,weather
+chrome start karo,open_app
+hey namaste,greeting
+lock my system,system_control
+calculator open karo please,open_app
+ai kya hai,search
+laptop band karo please,system_control
+what is machine learning please,search
+internet pe search karo,search
+search artificial intelligence,search
+start notepad,open_app
+please launch youtube,open_app
+lock my system,system_control
+what is machine learning,search
+hey aaj ka weather kaisa hai,weather
+aaj ka weather kaisa hai,weather
+please tell time please,get_time
+laptop band karo please,system_control
+funny joke bolo,jokes
+weather forecast batao,weather
+time now please,get_time
+hey assistant please,greeting
+tell me a joke,jokes
+launch chrome browser,open_app
+shutdown system,system_control
+play bollywood songs,play_music
+ai kya hai please,search
+make me laugh,jokes
+please tell time,get_time
+lock my system,system_control
+hey make me laugh please,jokes
+hey laptop band karo,system_control
+weather today,weather
+funny joke bolo,jokes
+please launch youtube,open_app
+is it raining today,weather
+sleep computer,system_control
+hey assistant please,greeting
+find news about india please,search
+calculator open karo please,open_app
+hello bhai,greeting
+can you open youtube,open_app
+hey shutdown system please,system_control
+koi joke sunao,jokes
+shutdown system,system_control
+lock my system please,system_control
+please tell time,get_time
+time now,get_time
+what time is it now please,get_time
+hey time now,get_time
+shutdown system,system_control
+funny joke bolo,jokes
+aaj ka weather kaisa hai,weather
+what time is it now,get_time
+open my browser,open_app
+good morning,greeting
+current time batao,get_time
+google python tutorial,search
+weather forecast batao,weather
+launch chrome browser,open_app
+koi joke sunao please,jokes
+hello bhai please,greeting
+make me laugh,jokes
+hey open my browser please,open_app
+laptop band karo,system_control
+chrome start karo please,open_app
+gaana chala,play_music
+tell me the time please,get_time
+namaste,greeting
+mujhe hasao please,jokes
+what time is it now,get_time
+hey what time is it now,get_time
+funny joke bolo,jokes
+calculator open karo,open_app
+restart my pc please,system_control
+tell me the time please,get_time
+hey restart my pc,system_control
+laptop band karo,system_control
+hey can you open youtube please,open_app
+hey google python tutorial,search
+play bollywood songs please,play_music
+play bollywood songs,play_music
+restart my pc,system_control
+hey temperature kitna hai,weather
+find news about india,search
+open my browser,open_app
+sleep computer please,system_control
+search artificial intelligence please,search
+hello,greeting
+hey good evening,greeting
+google python tutorial please,search
+open my browser,open_app
+hey turn off laptop please,system_control
+play bollywood songs please,play_music
+hi,greeting
+play latest song please,play_music
+hey weather forecast batao please,weather
+namaste,greeting
+restart my pc,system_control
+hey aaj ka weather kaisa hai,weather
+koi joke sunao please,jokes
+hey restart my pc,system_control
+tell me a joke,jokes
+tell me a joke,jokes
+open google,open_app
+sleep computer,system_control
+what is machine learning please,search
+what time is it now,get_time
+aaj ka weather kaisa hai please,weather
+play some music please,play_music
+hey gaana chala,play_music
+play a song please,play_music
+is it raining today,weather
+aaj ka weather kaisa hai please,weather
+look up latest tech news,search
+hey play bollywood songs,play_music
+hey namaste,greeting
+gaana chala,play_music
+good morning,greeting
+play some music,play_music
+koi joke sunao,jokes
+hello,greeting
+hey open youtube,open_app
+tell me a joke,jokes
+hey turn off laptop,system_control
+find news about india please,search
+laptop band karo please,system_control
+good evening,greeting
+restart my pc,system_control
+current time batao please,get_time
+hey good morning,greeting
+make me laugh,jokes
+tell me the time,get_time
+shutdown system please,system_control
+chrome start karo,open_app
+hey weather today please,weather
+abhi time kya hai please,get_time
+hello please,greeting
+good morning please,greeting
+laptop band karo please,system_control
+hello bhai please,greeting
+good evening,greeting
+hey what time is it now,get_time
+gaana chala,play_music
+aaj ka weather kaisa hai,weather
+tell me a joke,jokes
+time now,get_time
+start music,play_music
+current time batao please,get_time
+ai kya hai,search
+current time batao,get_time
+please tell time please,get_time
+shutdown system,system_control
+what is machine learning,search
+search artificial intelligence,search
+search weather today,search
+hey is it raining today,weather
+search weather today please,search
+temperature kitna hai,weather
+abhi time kya hai,get_time
+hey assistant,greeting
+tell me the time please,get_time
+hey weather today please,weather
+what is machine learning,search
+hey assistant,greeting
+hi please,greeting
+koi joke sunao,jokes
+hello bhai please,greeting
+search artificial intelligence,search
+hey is it raining today,weather
+hi please,greeting
+open google please,open_app
+start music,play_music
+hey play some music please,play_music
+hello please,greeting
+gaana chala,play_music
+abhi time kya hai please,get_time
+hey calculator open karo,open_app
+hey is it raining today,weather
+weather today,weather
+can you open youtube please,open_app
+launch chrome browser,open_app
+hey lock my system please,system_control
+play bollywood songs please,play_music
+funny joke bolo,jokes
+make me laugh please,jokes
+lock my system,system_control
+hey search artificial intelligence,search
+open youtube please,open_app
+music on karo,play_music
+hey what is machine learning,search
+aaj ka weather kaisa hai,weather
+abhi time kya hai please,get_time
+calculator open karo please,open_app
+abhi time kya hai,get_time
+sleep computer,system_control
+internet pe search karo please,search
+hey time now,get_time
+start music please,play_music
+restart my pc please,system_control
+hey good morning,greeting
+weather forecast batao please,weather
+hey time now,get_time
+please tell time,get_time
+koi joke sunao,jokes
+hey weather forecast batao please,weather
+internet pe search karo please,search
+sleep computer,system_control
+look up latest tech news,search
+is it raining today please,weather
+hey restart my pc,system_control
+hello bhai,greeting
+chrome start karo please,open_app
+sleep computer,system_control
+hey what is machine learning,search
+open my browser please,open_app
+hey what is machine learning,search
+gaana chala,play_music
+hey assistant,greeting
+koi song chalao please,play_music
+hey funny joke bolo,jokes
+open youtube please,open_app
+play bollywood songs please,play_music
+current time batao,get_time
+hey namaste,greeting
+shutdown system,system_control
+hey tell me a joke,jokes
+start notepad,open_app
+hey google python tutorial please,search
+funny joke bolo,jokes
+tell me the time,get_time
+hey assistant please,greeting
+start notepad,open_app
+start music,play_music
+chrome start karo please,open_app
+abhi time kya hai,get_time
+aaj ka weather kaisa hai please,weather
+sleep computer,system_control
+weather forecast batao,weather
+what is machine learning,search
+make me laugh,jokes
+good morning,greeting
+turn off laptop,system_control
+hey time now,get_time
+please tell time please,get_time
+ai kya hai,search
+abhi time kya hai please,get_time
+aaj ka weather kaisa hai please,weather
+internet pe search karo,search
+google python tutorial please,search
+namaste,greeting
+search artificial intelligence please,search
+hey find news about india,search
+launch chrome browser,open_app
+good evening,greeting
+turn off laptop,system_control
+turn off laptop,system_control
+hey make me laugh,jokes
+search artificial intelligence,search
+restart my pc,system_control
+please tell time please,get_time
+hey search artificial intelligence please,search
+tell me the time,get_time
+koi joke sunao please,jokes
+hey turn off laptop,system_control
+hey tell me a joke,jokes
+sleep computer,system_control
+hey hello,greeting
+current time batao,get_time
+launch chrome browser,open_app
+hey is it raining today,weather
+hey play bollywood songs,play_music
+temperature kitna hai please,weather
+sleep computer,system_control
+hey hey assistant,greeting
+hey internet pe search karo,search
+hey time now,get_time
+is it raining today,weather
+current time batao please,get_time
+temperature kitna hai,weather
+hey mujhe hasao,jokes
+start notepad,open_app
+play bollywood songs,play_music
+hi,greeting
+make me laugh,jokes
+hi please,greeting
+lock my system,system_control
+is it raining today,weather
+what is machine learning,search
+please tell time,get_time
+start notepad,open_app
+can you open youtube,open_app
+abhi time kya hai,get_time
+what time is it now,get_time
+play a song,play_music
+what is machine learning,search
+start music,play_music
+hey current time batao please,get_time
+calculator open karo,open_app
+is it raining today,weather
+launch chrome browser please,open_app
+hey hi,greeting
+koi joke sunao,jokes
+hey lock my system please,system_control
+tell me the time,get_time
+time now please,get_time
+google python tutorial,search
+internet pe search karo,search
+current time batao,get_time
+launch chrome browser please,open_app
+hey internet pe search karo,search
+open google,open_app
+search artificial intelligence please,search
+hey hey assistant please,greeting
+hello please,greeting
+is it raining today,weather
+koi joke sunao,jokes
+koi song chalao please,play_music
+hey good morning please,greeting
+koi joke sunao please,jokes
+temperature kitna hai,weather
+hey please launch youtube please,open_app
+good morning please,greeting
+hello bhai please,greeting
+is it raining today,weather
+search artificial intelligence please,search
+hello bhai,greeting
+temperature kitna hai,weather
+chrome start karo,open_app
+weather forecast batao please,weather
+play latest song,play_music
+hey launch chrome browser,open_app
+open google,open_app
+mujhe hasao please,jokes
+good morning,greeting
+search weather today,search
+hey can you open youtube please,open_app
+can you open youtube,open_app
+make me laugh,jokes
+lock my system,system_control
+weather today,weather
+youtube khol,open_app
+is it raining today,weather
+open youtube,open_app
+funny joke bolo,jokes
+namaste,greeting
+open google,open_app
+hey shutdown system please,system_control
+koi joke sunao,jokes
+current time batao,get_time
+time now,get_time
+open my browser please,open_app
+hey namaste please,greeting
+turn off laptop please,system_control
+hello,greeting
+tell me the time,get_time
+look up latest tech news,search
+start notepad please,open_app
+what time is it now,get_time
+please tell time,get_time
+time now,get_time
+time now,get_time
+please tell time please,get_time
+find news about india,search
+google python tutorial,search
+please tell time please,get_time
+hey aaj ka weather kaisa hai,weather
+lock my system,system_control
+hey is it raining today please,weather
+laptop band karo please,system_control
+make me laugh,jokes
+start notepad please,open_app
+ai kya hai,search
+launch chrome browser,open_app
+hey launch chrome browser,open_app
+what time is it now please,get_time
+tell me the time,get_time
+hey koi joke sunao,jokes
+hey current time batao please,get_time
+open youtube,open_app
+open my browser,open_app
+youtube khol,open_app
+time now please,get_time
+hey weather today,weather
+please tell time,get_time
+restart my pc,system_control
+hello,greeting
+sleep computer,system_control
+weather forecast batao please,weather
+open google please,open_app
+shutdown system please,system_control
+gaana chala,play_music
+hey koi joke sunao,jokes
+search artificial intelligence,search
+tell me a joke,jokes
+what is machine learning,search
+funny joke bolo,jokes
+hey play some music,play_music
+hey hey assistant,greeting
+hey tell me the time,get_time
+hey temperature kitna hai,weather
+current time batao please,get_time
+restart my pc,system_control
+hey restart my pc,system_control
+restart my pc,system_control
+is it raining today,weather
+internet pe search karo,search
+current time batao,get_time
+tell me the time,get_time
+weather forecast batao,weather
+weather forecast batao,weather
+hey tell me a joke,jokes
+hey time now,get_time
+can you open youtube,open_app
+hey open my browser,open_app
+sleep computer,system_control
+start music please,play_music
+laptop band karo,system_control
+turn off laptop,system_control
+hey assistant please,greeting
+hey weather today,weather
+good evening,greeting
+hey what time is it now please,get_time
+open youtube,open_app
+restart my pc,system_control
+start notepad please,open_app
+hey temperature kitna hai,weather
+gaana chala please,play_music
+restart my pc please,system_control
+koi joke sunao,jokes
+play some music please,play_music
+good evening,greeting
+hey ai kya hai,search
+shutdown system please,system_control
+please tell time please,get_time
+what time is it now please,get_time
+hey sleep computer,system_control
+start music,play_music
+find news about india,search
+find news about india,search
+tell me the time,get_time
+funny joke bolo,jokes
+start music,play_music
+hey weather forecast batao,weather
+tell me a joke,jokes
+abhi time kya hai please,get_time
+good morning,greeting
+hey assistant please,greeting
+hey ai kya hai,search
+make me laugh please,jokes
+restart my pc,system_control
+start music,play_music
+tell me the time,get_time
+open youtube,open_app
+start notepad,open_app
+what time is it now,get_time
+play latest song please,play_music
+hey current time batao,get_time
+search weather today,search
+koi song chalao,play_music
+play a song,play_music
+hi,greeting
+hello please,greeting
+search artificial intelligence please,search
+hey weather today,weather
+look up latest tech news please,search
+weather forecast batao,weather
+tell me the time,get_time
+what time is it now please,get_time
+mujhe hasao please,jokes
+current time batao,get_time
+koi joke sunao,jokes
+shutdown system,system_control
+laptop band karo please,system_control
+hey hi,greeting
+google python tutorial,search
+hey weather forecast batao,weather
+koi joke sunao please,jokes
+temperature kitna hai,weather
+hey open youtube,open_app
+hey assistant,greeting
+shutdown system,system_control
+hey open google,open_app
+ai kya hai please,search
+hello,greeting
+music on karo please,play_music
+is it raining today,weather
+hello,greeting
+funny joke bolo please,jokes
+sleep computer,system_control
+hey find news about india please,search
+can you open youtube,open_app
+sleep computer please,system_control
+search artificial intelligence,search
+hi please,greeting
+hello please,greeting
+turn off laptop,system_control
+hey abhi time kya hai,get_time
+look up latest tech news,search
+find news about india please,search
+what time is it now please,get_time
+hey gaana chala,play_music
+search weather today,search
+what is machine learning please,search
+play latest song,play_music
+please launch youtube,open_app
+aaj ka weather kaisa hai,weather
+please tell time,get_time
+music on karo,play_music
+turn off laptop,system_control
+hey weather forecast batao,weather
+find news about india,search
+hey calculator open karo,open_app
+tell me the time please,get_time
+namaste please,greeting
+hey open my browser,open_app
+hey weather today,weather
+make me laugh please,jokes
+laptop band karo,system_control
+is it raining today please,weather
+chrome start karo,open_app
+koi joke sunao,jokes
+hey hey assistant,greeting
+mujhe hasao,jokes
+hey can you open youtube,open_app
+calculator open karo please,open_app
+hey look up latest tech news,search
+play a song,play_music
+hey internet pe search karo please,search
+make me laugh,jokes
+play latest song,play_music
+aaj ka weather kaisa hai,weather
+hey koi joke sunao,jokes
+search artificial intelligence please,search
+find news about india,search
+hey abhi time kya hai,get_time
+find news about india,search
+can you open youtube,open_app
+hey weather today,weather
+namaste,greeting
+google python tutorial,search
+good morning,greeting
+temperature kitna hai,weather
+hey tell me the time,get_time
+search weather today please,search
+sleep computer,system_control
+hey koi joke sunao,jokes
+good morning please,greeting
+is it raining today please,weather
+hey find news about india,search
+what is machine learning,search
+mujhe hasao please,jokes
+weather today please,weather
+mujhe hasao please,jokes
+hello bhai,greeting
+hey aaj ka weather kaisa hai,weather
+mujhe hasao,jokes
+what time is it now please,get_time
+hey turn off laptop,system_control
+gaana chala,play_music
+play a song,play_music
+play bollywood songs,play_music
+mujhe hasao,jokes
+weather today,weather
+play bollywood songs,play_music
+music on karo,play_music
+time now,get_time
+hey tell me the time,get_time
+launch chrome browser,open_app
+hello bhai,greeting
+good evening,greeting
+please launch youtube,open_app
+can you open youtube,open_app
+tell me a joke,jokes
+make me laugh,jokes
+namaste please,greeting
+shutdown system please,system_control
+hi,greeting
+shutdown system please,system_control
+play bollywood songs,play_music
+gaana chala,play_music
+please tell time,get_time
+koi song chalao please,play_music
+make me laugh,jokes
+aaj ka weather kaisa hai,weather
+what is machine learning,search
+play a song,play_music
+google python tutorial,search
+look up latest tech news please,search
+hey make me laugh,jokes
+play bollywood songs,play_music
+open youtube,open_app
+hey abhi time kya hai,get_time
+shutdown system,system_control
+hey hi please,greeting
+laptop band karo please,system_control
+please tell time,get_time
+mujhe hasao,jokes
+chrome start karo,open_app
+gaana chala,play_music
+open google,open_app
+hey current time batao,get_time
+weather today please,weather
+turn off laptop please,system_control
+restart my pc,system_control
+hey open my browser please,open_app
+play latest song,play_music
+sleep computer please,system_control
+hey koi joke sunao please,jokes
+tell me a joke,jokes
+sleep computer please,system_control
+start music,play_music
+search artificial intelligence,search
+time now,get_time
+chrome start karo,open_app
+is it raining today,weather
+hi,greeting
+weather forecast batao,weather
+mujhe hasao,jokes
+tell me the time please,get_time
+abhi time kya hai,get_time
+shutdown system,system_control
+start music please,play_music
+aaj ka weather kaisa hai,weather
+weather today,weather
+look up latest tech news,search
+start notepad,open_app
+please tell time,get_time
+make me laugh please,jokes
+current time batao,get_time
+is it raining today,weather
+koi joke sunao,jokes
+hey assistant please,greeting
+hey music on karo,play_music
+calculator open karo,open_app
+funny joke bolo,jokes
+aaj ka weather kaisa hai please,weather
+sleep computer please,system_control
+find news about india,search
+hey aaj ka weather kaisa hai,weather
+temperature kitna hai,weather
+funny joke bolo,jokes
+hey music on karo,play_music
+hey hi please,greeting
+good morning please,greeting
+start notepad please,open_app
+lock my system please,system_control
+tell me the time,get_time
+play a song please,play_music
+find news about india,search
+open youtube please,open_app
+good morning,greeting
+open youtube please,open_app
+launch chrome browser,open_app
+tell me the time,get_time
+play latest song,play_music
+is it raining today please,weather
+abhi time kya hai please,get_time
+make me laugh,jokes
+google python tutorial please,search
+play latest song,play_music
+open youtube,open_app
+what is machine learning,search
+hey laptop band karo please,system_control
+turn off laptop please,system_control
+weather today,weather
+what is machine learning please,search
+shutdown system,system_control
+good evening,greeting
+start music,play_music
+hi please,greeting
+search artificial intelligence please,search
+start music,play_music
+search weather today please,search
+play a song,play_music
+hey laptop band karo,system_control
+temperature kitna hai please,weather
+namaste,greeting
+good evening,greeting
+play some music,play_music
+hey mujhe hasao please,jokes
+internet pe search karo,search
+what is machine learning,search
+open google,open_app
+hey koi joke sunao,jokes
+namaste,greeting
+hey turn off laptop,system_control
+what time is it now,get_time
+hey is it raining today please,weather
+hey launch chrome browser,open_app
+good evening,greeting
+good evening,greeting
+abhi time kya hai please,get_time
+hey lock my system,system_control
+hey koi joke sunao,jokes
+hi,greeting
+namaste please,greeting
+tell me the time please,get_time
+sleep computer,system_control
+hey play latest song,play_music
+open google,open_app
+lock my system,system_control
+funny joke bolo,jokes
+ai kya hai please,search
+hey what time is it now,get_time
+funny joke bolo please,jokes
+play a song please,play_music
+make me laugh,jokes
+weather forecast batao,weather
+current time batao,get_time
+koi joke sunao please,jokes
+hey temperature kitna hai,weather
+search weather today,search
+open youtube,open_app
+koi joke sunao,jokes
+koi joke sunao,jokes
+ai kya hai please,search
+internet pe search karo please,search
+play a song,play_music
+shutdown system,system_control
+koi joke sunao,jokes
+hey start notepad,open_app
+hey good evening,greeting
+turn off laptop,system_control
+open my browser,open_app
+make me laugh please,jokes
+restart my pc,system_control
+tell me a joke please,jokes
+ai kya hai,search
+mujhe hasao,jokes
+google python tutorial,search
+start notepad,open_app
+hey restart my pc,system_control
+weather forecast batao,weather
+hey please launch youtube,open_app
+hey lock my system,system_control
+mujhe hasao,jokes
+chrome start karo,open_app
+what time is it now,get_time
+koi song chalao,play_music
+hey abhi time kya hai,get_time
+play some music,play_music
+tell me a joke,jokes
+time now please,get_time
+open youtube,open_app
+please tell time,get_time
+hey assistant,greeting
+tell me the time,get_time
+search artificial intelligence please,search
+temperature kitna hai,weather
+hey good morning please,greeting
+tell me a joke,jokes
+is it raining today,weather
+laptop band karo please,system_control
+weather forecast batao,weather
+hey what time is it now,get_time
+laptop band karo,system_control
+hey hey assistant,greeting
+hey make me laugh,jokes
+internet pe search karo please,search
+temperature kitna hai,weather
+koi joke sunao,jokes
+hey make me laugh please,jokes
+time now please,get_time
+tell me the time,get_time
+hi,greeting
+make me laugh please,jokes
+gaana chala,play_music
+tell me a joke please,jokes
+good evening,greeting
+koi joke sunao please,jokes
+hey hello please,greeting
+look up latest tech news,search
+lock my system,system_control
+hey internet pe search karo,search
+find news about india,search
+temperature kitna hai,weather
+hey play a song please,play_music
+namaste,greeting
+hey weather forecast batao,weather
+tell me a joke,jokes
+lock my system please,system_control
+tell me a joke please,jokes
+internet pe search karo,search
+google python tutorial,search
+aaj ka weather kaisa hai,weather
+mujhe hasao,jokes
+hey weather today please,weather
+restart my pc please,system_control
+look up latest tech news,search
+good evening please,greeting
+search weather today,search
+what is machine learning please,search
+gaana chala,play_music
+please tell time please,get_time
+laptop band karo,system_control
+ai kya hai,search
+gaana chala please,play_music
+temperature kitna hai,weather
+restart my pc,system_control
+please tell time please,get_time
+good evening,greeting
+look up latest tech news,search
+hey assistant,greeting
+search artificial intelligence,search
+weather today,weather
+aaj ka weather kaisa hai,weather
+play a song,play_music
+hi please,greeting
+hi,greeting
+hey shutdown system,system_control
+sleep computer please,system_control
+sleep computer,system_control
+laptop band karo please,system_control
+hey is it raining today please,weather
+good morning please,greeting
+aaj ka weather kaisa hai,weather
+hello please,greeting
+search weather today please,search
+aaj ka weather kaisa hai please,weather
+make me laugh please,jokes
+hey what time is it now please,get_time
+hey is it raining today please,weather
+look up latest tech news,search
+funny joke bolo please,jokes
+hello,greeting
+make me laugh,jokes
+hello please,greeting
+open my browser,open_app
+hey namaste please,greeting
+open my browser please,open_app
+launch chrome browser please,open_app
+abhi time kya hai,get_time
+weather forecast batao,weather
+lock my system please,system_control
+restart my pc please,system_control
+koi joke sunao,jokes
+open my browser,open_app
+weather forecast batao please,weather
+gaana chala,play_music
+make me laugh please,jokes
+make me laugh,jokes
+what is machine learning,search
+turn off laptop,system_control
+is it raining today,weather
+hey koi joke sunao,jokes
+open google,open_app
+find news about india,search
+laptop band karo please,system_control
+ai kya hai please,search
+hey laptop band karo please,system_control
+mujhe hasao,jokes
+hey tell me a joke please,jokes
+make me laugh please,jokes
+tell me a joke,jokes
+can you open youtube please,open_app
+hey namaste,greeting
+aaj ka weather kaisa hai please,weather
+what is machine learning,search
+hey tell me a joke,jokes
+hey laptop band karo please,system_control
+turn off laptop please,system_control
+hey shutdown system,system_control
+what time is it now please,get_time
+koi joke sunao,jokes
+aaj ka weather kaisa hai,weather
+tell me the time,get_time
+tell me a joke,jokes
+music on karo,play_music
+namaste please,greeting
+temperature kitna hai,weather
+play latest song,play_music
+lock my system,system_control
+aaj ka weather kaisa hai,weather
+find news about india,search
+music on karo,play_music
+hey assistant,greeting
+what is machine learning,search
+temperature kitna hai,weather
+current time batao,get_time
+restart my pc please,system_control
+play a song,play_music
+can you open youtube,open_app
+music on karo,play_music
+namaste,greeting
+hey look up latest tech news,search
+calculator open karo,open_app
+tell me a joke please,jokes
+lock my system,system_control
+namaste,greeting
+abhi time kya hai please,get_time
+good morning,greeting
+current time batao,get_time
+namaste,greeting
+hello bhai,greeting
+hey play a song,play_music
+funny joke bolo,jokes
+hey aaj ka weather kaisa hai,weather
+turn off laptop please,system_control
+koi joke sunao,jokes
+hey music on karo,play_music
+hey hello bhai please,greeting
+hello,greeting
+open my browser please,open_app
+tell me a joke,jokes
+shutdown system please,system_control
+calculator open karo,open_app
+tell me a joke please,jokes
+koi song chalao,play_music
+hey tell me the time please,get_time
+play a song,play_music
+current time batao,get_time
+abhi time kya hai,get_time
+make me laugh please,jokes
+make me laugh,jokes
+restart my pc,system_control
+internet pe search karo please,search
+good morning please,greeting
+gaana chala,play_music
+hey aaj ka weather kaisa hai,weather
+aaj ka weather kaisa hai,weather
+temperature kitna hai,weather
+can you open youtube please,open_app
+hey play a song,play_music
+chrome start karo,open_app
+start notepad,open_app
+what is machine learning please,search
+ai kya hai,search
+ai kya hai,search
+hey hey assistant,greeting
+aaj ka weather kaisa hai,weather
+tell me the time,get_time
+mujhe hasao please,jokes
+weather today,weather
+what time is it now please,get_time
+hey internet pe search karo,search
+current time batao,get_time
+hey is it raining today please,weather
+weather forecast batao,weather
+open my browser,open_app
+youtube khol,open_app
+hey start notepad,open_app
+abhi time kya hai,get_time
+calculator open karo,open_app
+funny joke bolo please,jokes
+youtube khol,open_app
+hey hello bhai,greeting
+koi joke sunao please,jokes
+what time is it now please,get_time
+aaj ka weather kaisa hai please,weather
+lock my system,system_control
+hey time now,get_time
+hey restart my pc,system_control
+is it raining today please,weather
+hey what time is it now,get_time
+good morning,greeting
+play a song,play_music
+play bollywood songs,play_music
+make me laugh please,jokes
+please launch youtube please,open_app
+play latest song,play_music
+time now please,get_time
+hi,greeting
+google python tutorial,search
+start notepad please,open_app
+hey tell me the time,get_time
+hey start music please,play_music
+aaj ka weather kaisa hai,weather
+temperature kitna hai,weather
+tell me the time,get_time
+youtube khol,open_app
+hey weather today,weather
+hey abhi time kya hai,get_time
+temperature kitna hai,weather
+play bollywood songs please,play_music
+hey hey assistant,greeting
+chrome start karo,open_app
+hey aaj ka weather kaisa hai,weather
+look up latest tech news please,search
+please tell time please,get_time
+abhi time kya hai please,get_time
+start music,play_music
+internet pe search karo please,search
+aaj ka weather kaisa hai please,weather
+hey search artificial intelligence,search
+search artificial intelligence,search
+search weather today,search
+hey hey assistant please,greeting
+gaana chala,play_music
+weather today,weather
+hey sleep computer,system_control
+hello please,greeting
+koi song chalao,play_music
+hey is it raining today,weather
+weather forecast batao,weather
+play bollywood songs,play_music
+koi song chalao please,play_music
+internet pe search karo please,search
+hey hi please,greeting
+hey weather today please,weather
+open my browser please,open_app
+koi joke sunao,jokes
+start music please,play_music
+gaana chala please,play_music
+shutdown system,system_control
+weather today,weather
+good morning please,greeting
+is it raining today,weather
+play a song,play_music
+play some music,play_music
+ai kya hai,search
+koi joke sunao,jokes
+aaj ka weather kaisa hai please,weather
+search weather today,search
+abhi time kya hai please,get_time
+koi joke sunao,jokes
+koi song chalao,play_music
+hi,greeting
+search artificial intelligence,search
+hey namaste,greeting
+what is machine learning please,search
+sleep computer,system_control
+hello,greeting
+youtube khol,open_app
+mujhe hasao please,jokes
+open my browser please,open_app
+music on karo please,play_music
+temperature kitna hai,weather
+open my browser,open_app
+hey aaj ka weather kaisa hai,weather
+good evening,greeting
+youtube khol,open_app
+aaj ka weather kaisa hai,weather
+make me laugh,jokes
+calculator open karo,open_app
+hey laptop band karo,system_control
+temperature kitna hai please,weather
+sleep computer,system_control
+what is machine learning,search
+look up latest tech news,search
+play a song,play_music
+mujhe hasao,jokes
+weather today,weather
+play bollywood songs,play_music
+open youtube,open_app
+hey aaj ka weather kaisa hai,weather
+hey shutdown system,system_control
+search weather today,search
+time now please,get_time
+ai kya hai,search
+youtube khol,open_app
+what is machine learning,search
+please tell time please,get_time
+current time batao,get_time
+funny joke bolo please,jokes
+hey time now,get_time
+please tell time,get_time
+namaste,greeting
+aaj ka weather kaisa hai,weather
+search weather today,search
+current time batao,get_time
+lock my system,system_control
+play latest song,play_music
+hey find news about india,search
+current time batao please,get_time
+hey play some music,play_music
+hello bhai,greeting
+weather forecast batao,weather
+open youtube,open_app
+turn off laptop,system_control
+temperature kitna hai please,weather
+temperature kitna hai,weather
+search artificial intelligence,search
+weather forecast batao,weather
+what is machine learning please,search
+launch chrome browser please,open_app
+play some music please,play_music
+hey lock my system please,system_control
+koi joke sunao,jokes
+good evening please,greeting
+hey weather today please,weather
+good morning please,greeting
+hello,greeting
+restart my pc,system_control
+hey launch chrome browser please,open_app
+laptop band karo please,system_control
+hello bhai please,greeting
+hey chrome start karo,open_app
+ai kya hai,search
+laptop band karo,system_control
+namaste,greeting
+hello bhai,greeting
+hi,greeting
+mujhe hasao please,jokes
+aaj ka weather kaisa hai,weather
+hey time now,get_time
+turn off laptop,system_control
+hey search artificial intelligence,search
+aaj ka weather kaisa hai,weather
+laptop band karo,system_control
+open google,open_app
+hey please tell time,get_time
+tell me a joke please,jokes
+good morning,greeting
+tell me a joke,jokes
+funny joke bolo,jokes
+koi song chalao,play_music
+hey weather today,weather
+weather today please,weather
+hi please,greeting
+ai kya hai,search
+hey laptop band karo,system_control
+turn off laptop,system_control
+shutdown system,system_control
+search weather today,search
+ai kya hai,search
+koi song chalao please,play_music
+weather forecast batao,weather
+hey shutdown system please,system_control
+hey laptop band karo,system_control
+good evening please,greeting
+mujhe hasao,jokes
+look up latest tech news,search
+sleep computer,system_control
+is it raining today please,weather
+mujhe hasao please,jokes
+hey hello please,greeting
+aaj ka weather kaisa hai please,weather
+weather forecast batao,weather
+turn off laptop,system_control
+hey funny joke bolo,jokes
+hi,greeting
+chrome start karo,open_app
+koi joke sunao please,jokes
+hey hi,greeting
+lock my system please,system_control
+open youtube,open_app
+gaana chala,play_music
+hey temperature kitna hai please,weather
+hey koi joke sunao please,jokes
+funny joke bolo,jokes
+koi joke sunao please,jokes
+calculator open karo,open_app
+temperature kitna hai,weather
+music on karo,play_music
+tell me a joke,jokes
+weather today,weather
+hey restart my pc,system_control
+weather forecast batao,weather
+weather today,weather
+what is machine learning,search
+lock my system please,system_control
+play latest song,play_music
+hey laptop band karo please,system_control
+turn off laptop please,system_control
+is it raining today,weather
+hey ai kya hai please,search
+koi joke sunao,jokes
+hey sleep computer please,system_control
+time now please,get_time
+turn off laptop,system_control
+aaj ka weather kaisa hai,weather
+can you open youtube,open_app
+google python tutorial,search
+hey assistant,greeting
+gaana chala,play_music
+hey hello please,greeting
+open youtube,open_app
+good morning,greeting
+google python tutorial please,search
+hi please,greeting
+lock my system,system_control
+youtube khol,open_app
+play bollywood songs,play_music
+play some music please,play_music
+hey aaj ka weather kaisa hai please,weather
+what time is it now please,get_time
+hey assistant,greeting
+good morning please,greeting
+weather today,weather
+hello,greeting
+what is machine learning,search
+aaj ka weather kaisa hai,weather
+internet pe search karo please,search
+start music,play_music
+what time is it now,get_time
+music on karo,play_music
+tell me a joke,jokes
+hey koi joke sunao please,jokes
+aaj ka weather kaisa hai,weather
+look up latest tech news,search
+play latest song,play_music
+gaana chala,play_music
+hey turn off laptop,system_control
+hey lock my system please,system_control
+namaste please,greeting
+internet pe search karo,search
+google python tutorial please,search
+hey koi song chalao,play_music
+tell me the time please,get_time
+hey laptop band karo,system_control
+find news about india please,search
+search weather today,search
+please launch youtube please,open_app
+temperature kitna hai,weather
+aaj ka weather kaisa hai,weather
+internet pe search karo,search
+calculator open karo,open_app
+start music,play_music
+koi joke sunao,jokes
+abhi time kya hai please,get_time
+find news about india please,search
+hey music on karo please,play_music
+hey search artificial intelligence,search
+please launch youtube,open_app
+gaana chala,play_music
+play latest song,play_music
+gaana chala,play_music
+weather today,weather
+laptop band karo please,system_control
+play some music,play_music
+hey current time batao,get_time
+what is machine learning,search
+hey mujhe hasao,jokes
+hey play bollywood songs please,play_music
+search weather today,search
+hey assistant,greeting
+can you open youtube,open_app
+tell me a joke,jokes
+tell me a joke,jokes
+tell me the time please,get_time
+hey hello please,greeting
+weather today,weather
+start notepad,open_app
+hi,greeting
+start notepad,open_app
+hey temperature kitna hai,weather
+hey make me laugh please,jokes
+what is machine learning,search
+hey time now please,get_time
+start music,play_music
+hello bhai please,greeting
+sleep computer,system_control
+hey lock my system,system_control
+weather forecast batao please,weather
+hey koi joke sunao,jokes
+hey mujhe hasao,jokes
+lock my system please,system_control
+hey koi joke sunao,jokes
+music on karo,play_music
+search artificial intelligence,search
+open youtube,open_app
+hello bhai,greeting
+weather today please,weather
+hey youtube khol please,open_app
+koi joke sunao please,jokes
+hey make me laugh please,jokes
+koi song chalao please,play_music
+search weather today,search
+please tell time,get_time
+weather today,weather
+lock my system,system_control
+start music,play_music
+launch chrome browser please,open_app
+find news about india,search
+weather today,weather
+mujhe hasao,jokes
+hey internet pe search karo,search
+what time is it now please,get_time
+hey play some music please,play_music
+hey hello bhai,greeting
+make me laugh please,jokes
+hey tell me the time,get_time
+play some music,play_music
+koi joke sunao,jokes
+tell me a joke,jokes
+start music,play_music
+koi joke sunao,jokes
+calculator open karo please,open_app
+good evening,greeting
+hey abhi time kya hai,get_time
+hey weather today,weather
+shutdown system please,system_control
+please tell time,get_time
+current time batao please,get_time
+hey tell me the time,get_time
+weather today,weather
+start music,play_music
+time now please,get_time
+search weather today,search
+temperature kitna hai,weather
+hey koi song chalao,play_music
+can you open youtube,open_app
+good morning please,greeting
+youtube khol please,open_app
+hey is it raining today please,weather
+lock my system please,system_control
+aaj ka weather kaisa hai please,weather
+start music,play_music
+turn off laptop,system_control
+weather today,weather
+open my browser,open_app
+hey sleep computer,system_control
+hey good morning,greeting
+play latest song,play_music
+gaana chala please,play_music
+launch chrome browser please,open_app
+temperature kitna hai please,weather
+play bollywood songs,play_music
+chrome start karo,open_app
+calculator open karo please,open_app
+koi joke sunao,jokes
+youtube khol please,open_app
+koi joke sunao,jokes
+hi,greeting
+is it raining today please,weather
+koi joke sunao,jokes
+start music please,play_music
+hey restart my pc,system_control
+please tell time,get_time
+restart my pc,system_control
+chrome start karo,open_app
+hey internet pe search karo,search
+hello bhai please,greeting
+weather today please,weather
+sleep computer please,system_control
+hey ai kya hai please,search
+funny joke bolo please,jokes
+hey play bollywood songs,play_music
+can you open youtube please,open_app
+tell me a joke,jokes
+what is machine learning,search
+abhi time kya hai,get_time
+internet pe search karo please,search
+turn off laptop,system_control
+lock my system,system_control
+internet pe search karo,search
+laptop band karo,system_control
+please tell time,get_time
+can you open youtube,open_app
+what is machine learning,search
+hey hey assistant,greeting
+laptop band karo please,system_control
+find news about india,search
+good evening,greeting
+sleep computer,system_control
+abhi time kya hai,get_time
+hello please,greeting
+ai kya hai,search
+what time is it now,get_time
+weather forecast batao,weather
+hey play latest song please,play_music
+restart my pc please,system_control
+play a song,play_music
+namaste please,greeting
+google python tutorial,search
+is it raining today please,weather
+shutdown system,system_control
+what time is it now,get_time
+tell me a joke please,jokes
+abhi time kya hai,get_time
+hello bhai,greeting
+open youtube please,open_app
+restart my pc,system_control
+hey temperature kitna hai,weather
+hey namaste,greeting
+youtube khol,open_app
+google python tutorial,search
+please tell time,get_time
+youtube khol please,open_app
+is it raining today,weather
+please launch youtube,open_app
+weather forecast batao,weather
+play some music,play_music
+hey abhi time kya hai please,get_time
+hey hello,greeting
+look up latest tech news,search
+hey google python tutorial,search
+ai kya hai,search
+hey restart my pc,system_control
+is it raining today,weather
+hey make me laugh,jokes
+hey turn off laptop,system_control
+hey search artificial intelligence please,search
+internet pe search karo,search
+find news about india,search
+ai kya hai please,search
+hey find news about india,search
+search weather today,search
+tell me the time,get_time
+mujhe hasao,jokes
+search weather today,search
+time now,get_time
+temperature kitna hai,weather
+play bollywood songs please,play_music
+hey gaana chala please,play_music
+make me laugh,jokes
+youtube khol,open_app
+tell me the time,get_time
+search weather today please,search
+funny joke bolo,jokes
+search artificial intelligence,search
+funny joke bolo,jokes
+turn off laptop,system_control
+google python tutorial,search
+hey assistant,greeting
+time now please,get_time
+lock my system,system_control
+hey turn off laptop,system_control
+play bollywood songs,play_music
+time now,get_time
+make me laugh,jokes
+mujhe hasao,jokes
+weather forecast batao,weather
+hey shutdown system,system_control
+is it raining today,weather
+internet pe search karo,search
+hey koi joke sunao,jokes
+good morning,greeting
+hello,greeting
+internet pe search karo,search
+is it raining today,weather
+hello bhai,greeting
+play latest song,play_music
+youtube khol,open_app
+calculator open karo please,open_app
+search artificial intelligence please,search
+sleep computer,system_control
+weather forecast batao,weather
+hey play bollywood songs,play_music
+sleep computer,system_control
+open my browser please,open_app
+hey play latest song please,play_music
+time now,get_time
+make me laugh,jokes
+restart my pc please,system_control
+abhi time kya hai,get_time
+sleep computer please,system_control
+mujhe hasao,jokes
+good morning please,greeting
+music on karo,play_music
+search artificial intelligence,search
+internet pe search karo,search
+hey koi joke sunao please,jokes
+start music,play_music
+good morning,greeting
+good evening,greeting
+hey weather today,weather
+what time is it now please,get_time
+restart my pc,system_control
+please tell time please,get_time
+hey abhi time kya hai,get_time
+hey assistant,greeting
+open my browser,open_app
+google python tutorial,search
+make me laugh please,jokes
+turn off laptop,system_control
+time now,get_time
+hey restart my pc,system_control
+open youtube please,open_app
+hey hey assistant,greeting
+music on karo,play_music
+weather forecast batao,weather
+restart my pc please,system_control
+funny joke bolo please,jokes
+make me laugh,jokes
+hey launch chrome browser,open_app
+tell me the time please,get_time
+look up latest tech news,search
+gaana chala,play_music
+funny joke bolo please,jokes
+hello bhai,greeting
+hey internet pe search karo please,search
+please tell time please,get_time
+weather today please,weather
+what time is it now,get_time
+play latest song,play_music
+koi joke sunao,jokes
+hi,greeting
+hey sleep computer,system_control
+tell me a joke,jokes
+shutdown system,system_control
+hey hello bhai,greeting
+hello,greeting
+hey play bollywood songs,play_music
+sleep computer,system_control
+google python tutorial,search
+temperature kitna hai please,weather
+music on karo,play_music
+tell me the time please,get_time
+weather today please,weather
+tell me a joke,jokes
+hi,greeting
+hey gaana chala,play_music
+funny joke bolo,jokes
+good evening,greeting
+funny joke bolo please,jokes
+hey youtube khol,open_app
+temperature kitna hai,weather
+play a song please,play_music
+abhi time kya hai please,get_time
+weather today,weather
+music on karo,play_music
+calculator open karo please,open_app
+hey play a song,play_music
+start music,play_music
+hey chrome start karo please,open_app
+start notepad,open_app
+hey lock my system,system_control
+is it raining today,weather
+play latest song please,play_music
+play a song,play_music
+hey what is machine learning,search
+please launch youtube,open_app
+internet pe search karo,search
+koi joke sunao,jokes
+aaj ka weather kaisa hai,weather
+hey hi,greeting
+weather today please,weather
+current time batao,get_time
+hey good evening,greeting
+weather today,weather
+open google please,open_app
+open google please,open_app
+hey ai kya hai,search
+weather forecast batao please,weather
+play some music,play_music
+sleep computer please,system_control
+what time is it now,get_time
+find news about india,search
+hey internet pe search karo,search
+weather today please,weather
+hey mujhe hasao,jokes
+koi joke sunao please,jokes
+start music,play_music
+please tell time please,get_time
+namaste,greeting
+gaana chala,play_music
+tell me the time,get_time
+restart my pc please,system_control
+search weather today,search
+hello,greeting
+hey assistant,greeting
+hey laptop band karo,system_control
+play a song,play_music
+hey assistant,greeting
+shutdown system,system_control
+weather today,weather
+weather forecast batao,weather
+hey is it raining today,weather
+music on karo please,play_music
+hi,greeting
+music on karo,play_music
+namaste,greeting
+shutdown system please,system_control
+hey assistant,greeting
+hey play bollywood songs,play_music
+hey current time batao,get_time
+can you open youtube,open_app
+internet pe search karo,search
+time now please,get_time
+hey please tell time,get_time
+sleep computer,system_control
+can you open youtube,open_app
+hey what is machine learning,search
+chrome start karo,open_app
+hey turn off laptop please,system_control
+hey please tell time,get_time
+hey please launch youtube,open_app
+hey search artificial intelligence,search
+time now,get_time
+internet pe search karo please,search
+open google please,open_app
+hey assistant,greeting
+make me laugh,jokes
+start music,play_music
+laptop band karo please,system_control
+start notepad,open_app
+play latest song,play_music
+laptop band karo,system_control
+good evening please,greeting
+current time batao,get_time
+temperature kitna hai,weather
+koi joke sunao,jokes
+play a song,play_music
+hey start music,play_music
+temperature kitna hai,weather
+play bollywood songs,play_music
+restart my pc,system_control
+is it raining today,weather
+hey hey assistant,greeting
+hello bhai,greeting
+time now please,get_time
+look up latest tech news,search
+namaste please,greeting
+open youtube,open_app
+search weather today,search
+what is machine learning,search
+hey play a song,play_music
+funny joke bolo,jokes
+weather forecast batao,weather
+play some music please,play_music
+abhi time kya hai,get_time
+lock my system,system_control
+please launch youtube,open_app
+namaste,greeting
+sleep computer,system_control
+find news about india,search
+laptop band karo,system_control
+hey good morning,greeting
+hey is it raining today,weather
+hi,greeting
+internet pe search karo please,search
+start notepad please,open_app
+hey assistant,greeting
+hey search artificial intelligence,search
+play some music,play_music
+launch chrome browser,open_app
+start music,play_music
+mujhe hasao,jokes
+good morning,greeting
+open my browser,open_app
+tell me the time,get_time
+what is machine learning please,search
+hey weather today please,weather
+hi please,greeting
+laptop band karo,system_control
+hey sleep computer,system_control
+restart my pc please,system_control
+hey hi,greeting
+mujhe hasao,jokes
+hi,greeting
+time now please,get_time
+hello,greeting
+time now,get_time
+open my browser please,open_app
+weather today,weather
+launch chrome browser,open_app
+play a song,play_music
+what time is it now,get_time
+find news about india please,search
+sleep computer please,system_control
+laptop band karo,system_control
+play bollywood songs,play_music
+weather forecast batao please,weather
+tell me the time please,get_time
+hello,greeting
+hey shutdown system please,system_control
+play some music,play_music
+hey please launch youtube please,open_app
+funny joke bolo please,jokes
+what time is it now please,get_time
+what time is it now,get_time
+search weather today please,search
+play bollywood songs,play_music
+lock my system,system_control
+hi,greeting
+weather today please,weather
+search weather today,search
+open google please,open_app
+hey gaana chala,play_music
+google python tutorial,search
+is it raining today,weather
+koi song chalao,play_music
+hey open youtube please,open_app
+namaste,greeting
+hey mujhe hasao please,jokes
+search weather today,search
+start notepad,open_app
+ai kya hai please,search
+lock my system,system_control
+temperature kitna hai,weather
+please tell time please,get_time
+weather today,weather
+hey hi,greeting
+weather forecast batao,weather
+tell me a joke please,jokes
+koi song chalao,play_music
+make me laugh,jokes
+aaj ka weather kaisa hai,weather
+hey hey assistant please,greeting
+internet pe search karo,search
+aaj ka weather kaisa hai,weather
+hey mujhe hasao,jokes
+current time batao please,get_time
+abhi time kya hai,get_time
+hey mujhe hasao,jokes
+play a song,play_music
+open youtube,open_app
+chrome start karo please,open_app
+temperature kitna hai,weather
+mujhe hasao,jokes
+hey internet pe search karo,search
+calculator open karo,open_app
+aaj ka weather kaisa hai,weather
+can you open youtube,open_app
+hey open google,open_app
+make me laugh,jokes
+music on karo,play_music
+look up latest tech news,search
+temperature kitna hai,weather
+hey is it raining today please,weather
+hey koi joke sunao,jokes
+please tell time please,get_time
+hey aaj ka weather kaisa hai please,weather
+hey assistant,greeting
+hey shutdown system,system_control
+internet pe search karo,search
+hey make me laugh,jokes
+aaj ka weather kaisa hai,weather
+temperature kitna hai,weather
+hey weather forecast batao,weather
+hey launch chrome browser please,open_app
+abhi time kya hai,get_time
+restart my pc please,system_control
+google python tutorial,search
+search weather today,search
+sleep computer,system_control
+please tell time,get_time
+hey mujhe hasao please,jokes
+play bollywood songs,play_music
+hey can you open youtube,open_app
+hey lock my system,system_control
+shutdown system,system_control
+please tell time please,get_time
+tell me a joke,jokes
+open my browser please,open_app
+hey namaste,greeting
+play a song please,play_music
+koi joke sunao,jokes
+hey play bollywood songs please,play_music
+good morning,greeting
+lock my system,system_control
+is it raining today,weather
+open youtube,open_app
+hey laptop band karo please,system_control
+weather today,weather
+google python tutorial,search
+laptop band karo please,system_control
+shutdown system,system_control
+funny joke bolo,jokes
+hey tell me the time,get_time
+hey search weather today,search
+lock my system please,system_control
+can you open youtube please,open_app
+play latest song,play_music
+mujhe hasao,jokes
+weather forecast batao please,weather
+hey shutdown system,system_control
+weather forecast batao,weather
+please tell time please,get_time
+hey abhi time kya hai please,get_time
+open youtube please,open_app
+music on karo,play_music
+play latest song please,play_music
+good evening please,greeting
+open google,open_app
+start music,play_music
+what time is it now please,get_time
+abhi time kya hai,get_time
+internet pe search karo,search
+what time is it now,get_time
+play latest song,play_music
+play some music please,play_music
+google python tutorial please,search
+hey hello,greeting
+good morning,greeting
+play latest song,play_music
+hey tell me a joke please,jokes
+is it raining today,weather
+funny joke bolo,jokes
+tell me the time please,get_time
+temperature kitna hai please,weather
+hey restart my pc please,system_control
+current time batao please,get_time
+hey is it raining today,weather
+koi song chalao please,play_music
+current time batao,get_time
+open google please,open_app
+launch chrome browser,open_app
+what is machine learning,search
+aaj ka weather kaisa hai please,weather
+hey is it raining today,weather
+time now,get_time
+koi song chalao,play_music
+restart my pc,system_control
+aaj ka weather kaisa hai,weather
+open youtube,open_app
+laptop band karo,system_control
+google python tutorial,search
+hey laptop band karo please,system_control
+temperature kitna hai please,weather
+look up latest tech news,search
+current time batao,get_time
+good evening please,greeting
+time now,get_time
+play a song,play_music
+hey assistant,greeting
+youtube khol please,open_app
+music on karo please,play_music
+is it raining today,weather
+time now,get_time
