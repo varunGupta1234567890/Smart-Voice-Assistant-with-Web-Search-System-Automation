@@ -1,2 +1,5 @@
-*.csv
+# CSV files are included for reproducibility
+# *.csv
+
+# Model files
 *.pkl
